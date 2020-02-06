@@ -37915,7 +37915,7 @@ $0:function(){},
 $S:0}
 F.vn.prototype={
 H:function(a){var t=null,s=R.KH(A.R(t,t,C.f,t,t,t,t,t,t,t,t,16,t,t,t,t,!0,t,t,t,t,t,t),t,t,t,t,t,t,t,t,t,t,t,t)
-return new S.nP(new T.oG(t),"Flutter Demo",X.Un(new V.js(t,C.pV,t,t,t,R.KH(t,t,t,t,t,t,t,t,t,t,t,t,A.R(t,t,C.f,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t))),t,s),!1,t)}}
+return new S.nP(new T.oG(t),"Jairaj Jangle Portfolio",X.Un(new V.js(t,C.pV,t,t,t,R.KH(t,t,t,t,t,t,t,t,t,t,t,t,A.R(t,t,C.f,t,t,t,t,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t))),t,s),!1,t)}}
 B.m_.prototype={
 ax:function(){return new B.ya(C.m)}}
 B.ya.prototype={
